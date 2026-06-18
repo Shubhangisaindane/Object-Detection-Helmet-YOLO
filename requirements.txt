@@ -1,3 +1,4 @@
+# This file lists the dependencies for the project. You can install them using pip:
 streamlit>=1.35
 ultralytics>=8.2
 opencv-python-headless
